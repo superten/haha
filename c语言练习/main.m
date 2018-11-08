@@ -14,7 +14,11 @@ int main(int argc, const char * argv[]) {
         int n = 2;
         int *i = &n;
                    //应该为 *(i ++);
-            printf("%d ", *
+        
+        
+        
+        
+            printf("%d ",__func__
         
 
                    
